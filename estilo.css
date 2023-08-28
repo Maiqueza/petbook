@@ -1,4 +1,17 @@
 h1{
     text-indent: 20px;
-    font-family:serif;
+    background-color: purple;
+    color:white;
+}
+.circle-image{
+    width:100%;
+    max-width: 400px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+   
+}
+#img{ 
+    border: 5px;
+    border-color:purple;
 }
